@@ -1,4 +1,19 @@
-#titulo-boas-vindas {
-  font-family: "Lavishly Yours", cursive;
+h1 {
+  font-family: "Space Mono", Arial, Helvetica, sans-serif;
   font-size: 48px;
+  font-weight: 550;
+}
+
+h2 {
+  font-family: "Space Mono", Arial, Helvetica, sans-serif;
+  font-size: 36px;
+}
+
+h3 {
+  font-family: "Space Mono", Arial, Helvetica, sans-serif;
+  font-size: 36px;
+}
+
+p {
+  font-size: 18px;
 }
