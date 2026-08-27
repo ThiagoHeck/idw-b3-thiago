@@ -17,3 +17,17 @@ h3 {
 p {
   font-size: 18px;
 }
+
+
+#footer-universal {
+  padding: 10px;
+  background-color: #f1f1f1;
+  margin-top: 20px;
+  border: 1px solid #726e6e;
+}
+
+
+.container {
+  padding: 5px;
+  margin: 1px invisible;
+}
