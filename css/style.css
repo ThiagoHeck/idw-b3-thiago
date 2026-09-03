@@ -2,16 +2,19 @@ h1 {
   font-family: "Space Mono", Arial, Helvetica, sans-serif;
   font-size: 48px;
   font-weight: 550;
+  text-align: center;
 }
 
 h2 {
   font-family: "Space Mono", Arial, Helvetica, sans-serif;
   font-size: 36px;
+  text-align: center;
 }
 
 h3 {
   font-family: "Space Mono", Arial, Helvetica, sans-serif;
   font-size: 36px;
+  text-align: center;
 }
 
 p {
@@ -28,6 +31,30 @@ p {
 
 
 .container {
-  padding: 5px;
-  margin: 1px invisible;
+  padding: 10px;
+  margin: 10px;
+}
+
+
+#tinkercad-imagem {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+  min-width: 50%;
+  width: 55%;
+}
+
+.nomeHelp {
+  font-size: 14px;
+  color: #60676d;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+.emailHelp {
+  font-size: 14px;
+  color: #60676d;
+  margin-top: 5px;
+  margin-bottom: 10px;
 }

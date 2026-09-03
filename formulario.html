@@ -94,11 +94,16 @@
 
     <h1 class="text-center">Formulário de inscrição</h1>
 
-    <form>
+    <form class="container" action="processar_formulario.php" method="POST">
       <div class="mb-3">
         <label for="inputNome" class="form-label">Nome</label>
         <input type="text" class="form-control" id="inputNome" required />
+        <div class="nomeHelp" class="form-text">
+          Por favor, insira seu nome completo. Nenhum dado será compartilhado
+          com terceiros.
+        </div>
       </div>
+
       <div class="mb-3">
         <label for="inputEmail1" class="form-label">Email</label>
         <input
