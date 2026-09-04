@@ -20,7 +20,8 @@ h3 {
 h5 {
   color: #33c958;
   line-height: 1.6;
-  text-align: center;
+  display: inline-block;
+  font-size: 18px;
 }
 
 p {
