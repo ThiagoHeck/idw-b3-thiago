@@ -8,41 +8,36 @@ h1 {
 h2 {
   font-family: "Space Mono", Arial, Helvetica, sans-serif;
   font-size: 36px;
-  text-align: center;
+  text-align: left;
 }
 
 h3 {
   font-family: "Space Mono", Arial, Helvetica, sans-serif;
   font-size: 36px;
+  text-align: left;
+}
+
+h5 {
+  color: #80a7ca;
+  line-height: 1.6;
   text-align: center;
 }
 
 p {
   font-size: 18px;
+  line-height: 1.6;
 }
 
-
-#footer-universal {
+footer {
   padding: 10px;
   background-color: #f1f1f1;
   margin-top: 20px;
   border: 1px solid #726e6e;
 }
 
-
 .container {
   padding: 10px;
   margin: 10px;
-}
-
-
-#tinkercad-imagem {
-  display: block;
-  margin: 0 auto;
-  max-width: 100%;
-  height: auto;
-  min-width: 50%;
-  width: 55%;
 }
 
 .nomeHelp {
@@ -57,4 +52,10 @@ p {
   color: #60676d;
   margin-top: 5px;
   margin-bottom: 10px;
+}
+
+.carousel-item img {
+  margin: 0 auto;
+  display: block;
+  width: 50%;
 }
