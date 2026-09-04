@@ -18,7 +18,7 @@ h3 {
 }
 
 h5 {
-  color: #80a7ca;
+  color: #33c958;
   line-height: 1.6;
   text-align: center;
 }
@@ -57,5 +57,7 @@ footer {
 .carousel-item img {
   margin: 0 auto;
   display: block;
+  max-width: 100%;
   width: 50%;
+  height: 50%;
 }
